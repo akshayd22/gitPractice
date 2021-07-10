@@ -11,3 +11,7 @@ d=10
 ((diff=c-d))
 echo "Diffrence Of $c and $d is $diff";
 
+g=25
+h=5
+((div=g/5))
+echo "Division Of $g and $h is $div";
